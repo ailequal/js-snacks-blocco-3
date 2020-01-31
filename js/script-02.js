@@ -2,7 +2,7 @@ $(document).ready(function() {
 
   $(document).on('click', '.click-me', function() {
     
-    $.ajax( {
+    $.ajax({
       url: "https://flynn.boolean.careers/exercises/api/random/int",
       method: "GET",
       success: function (data, state) {
@@ -16,8 +16,8 @@ $(document).ready(function() {
       },
       error: function (request, state, error) {
         console.log(state, error);
-      } }
-    );
+      }
+    });
 
   });
 
