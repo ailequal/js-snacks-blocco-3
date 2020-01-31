@@ -10,4 +10,15 @@ body {
   font-size: 16px;
 }
 
-/* main */
+/* script-02 */
+.odd {
+  min-height: 100px;
+  border: 1px solid red;
+  color: red;
+}
+
+.even {
+  min-height: 100px;
+  border: 1px solid green;
+  color: green;
+}
