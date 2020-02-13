@@ -18,50 +18,46 @@ h1 {
 
 /* script-02 */
 /* .odd {
-  min-height: 100px;
-  border: 1px solid red;
-  color: red;
+	min-height: 100px;
+	border: 1px solid red;
+	color: red;
 }
 
 .even {
-  min-height: 100px;
-  border: 1px solid green;
-  color: green;
+	min-height: 100px;
+	border: 1px solid green;
+	color: green;
 } */
-
 
 /* script-04 */
 /* .grid {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  flex-wrap: wrap;
-  width: 560px;
-  margin: auto;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+	width: 560px;
+	margin: auto;
 }
 
 .box {
-  width: 50px;
-  height: 50px;
-  margin: 10px;
-  border: 1px solid black;
-  cursor: pointer;
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+	border: 1px solid black;
+	cursor: pointer;
 }
 
 .green {
-  background-color: green;
+	background-color: green;
 }
 
 .red {
-  background-color: red;
+	background-color: red;
 } */
-
 
 /* script-05 */
 /* .container {
-  width: 992px;
-  margin: auto;
-  text-align: center;
+	width: 992px;
+	margin: auto;
+	text-align: center;
 } */
-
-/* script-06 */
